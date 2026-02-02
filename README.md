@@ -13,3 +13,10 @@
 - ruff
 - pre-commit (run ruff and mypy)
 - minimal github action for linting
+
+### reminders
+```
+after cloning, run:
+$ uv sync
+$ uv run pre-commit install
+```
